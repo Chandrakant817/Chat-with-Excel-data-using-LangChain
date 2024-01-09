@@ -31,6 +31,6 @@ step 4. start writing the code, with standard file name as main.py
 ## <b> Output </b>
 ![image](https://github.com/Chandrakant817/Chat-with-Excel-data-using-LangChain/assets/69152112/b8418134-9a49-4e9b-b379-1bc5cd9a0300)
 
-
+## <b> Note: In Output we can also get output in Graphical representation by just simply passing the prompt. Eg: plot the distribution graph of Age,Price we can get graphical representation output</b>
 
 
