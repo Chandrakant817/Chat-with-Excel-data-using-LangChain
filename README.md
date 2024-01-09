@@ -13,9 +13,6 @@ step 3. Install all the requirements:
  
 step 4. start writing the code, with standard file name as main.py
 
-## <b> Flow </b>
-![image](https://github.com/Chandrakant817/Chat-with-PDF-using-LangChain/assets/69152112/40d04d29-5a66-4d49-9e85-e84dec172c3b)
-
 ### <b> High Level Architecture </b>
 ![image](https://github.com/Chandrakant817/Chat-with-Excel-data-using-LangChain/assets/69152112/cfd0d3a6-0bc0-44bc-9dee-b4a299f7039e)
 
