@@ -1,1 +1,5 @@
-
+openai
+streamlit
+langchain
+faiss-cpu
+tiktoken
